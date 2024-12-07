@@ -16,4 +16,4 @@ A simple interactive website that calculates the price of gold in Indian Rupees 
 # How to Use:
 1. Enter the gold weight in grams in the calculator.
 2. Click **Calculate Price** to see the total value in INR.
-3. Optionally, fill out the **Contact Form** to send an inquiry.
+3. Optionally, fill out the **Contact Form** to send an inquiry. 

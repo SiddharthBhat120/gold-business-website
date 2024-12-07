@@ -1,5 +1,5 @@
 // Gold Price Calculator Function in INR
-const goldPricePerGram = 5000; // Example market rate in INR per gram
+const goldPricePerGram = 7617; // Example market rate in INR per gram
 
 function calculatePrice() {
   const weight = document.getElementById('weight').value;

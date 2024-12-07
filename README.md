@@ -17,7 +17,3 @@ A simple interactive website that calculates the price of gold in Indian Rupees 
 1. Enter the gold weight in grams in the calculator.
 2. Click **Calculate Price** to see the total value in INR.
 3. Optionally, fill out the **Contact Form** to send an inquiry.
-
-
-# Conclusion:
-By following these steps, you can upload your website files directly from the GitHub website, and once you've enabled GitHub Pages, your project will be live on the internet. This is a great way to showcase your work and share it with others.
